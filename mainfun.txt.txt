@@ -20,4 +20,8 @@ if(catest[2]&&catest[0])>catest[1])
 int best1[0]=catest[2];
 int best2[1]=catest[0];
 }
+// total ca calculate
+ ca= best[0]+best[1];
+printf("Your ca is:%d",ca);
+
 }
