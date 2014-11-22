@@ -5,4 +5,19 @@ void main()
 printf("hello");
 printf("new added");
 printf("");
+if(catest[0]&&catest[1])>catest[2])
+{
+int best1[0]=catest[0];
+int best2[1]=catest[1];
+}
+if(catest[1]&&catest[2])>catest[0])
+{
+int best1[0]=catest[1];
+int best2[1]=catest[2];
+}
+if(catest[2]&&catest[0])>catest[1])
+{
+int best1[0]=catest[2];
+int best2[1]=catest[0];
+}
 }
