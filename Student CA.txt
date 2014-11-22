@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int catest[3];
+printf("enter marks of three CA test");
+for(int i=0;i<3;i++)
+{
+scanf("%d%d%d",);
+}
+getch();
+}
