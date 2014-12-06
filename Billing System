@@ -1,0 +1,20 @@
+#include<stdio.h>
+#incluide<conio.h>
+void main()
+{
+int item[5],price[5],total=0;
+printf("enter items");
+for(int i=0;i<5;i++)
+{
+scanf("%d",&item[i]);
+}
+printf("enter price for items:")'
+for(int j=0;j<5;j++)
+{
+scnaf("%d",price[i]);
+total+=price[i];
+}
+printf("your Bill is:%d",total);
+getch();
+}
+
